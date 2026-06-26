@@ -56,7 +56,18 @@ The project follows enterprise best practices and is documented as if it were an
 
 ## Repository Structure
 
-*(Insert folder tree here.)*
+*00-Project-Overview
+│
+├── README.md
+├── Business-Scenario.md
+├── Project-Objectives.md
+├── Skills-Demonstrated.md
+├── Architecture-Overview.md
+├── Company-Structure.md
+├── IT-Environment.md
+├── Naming-Standards.md
+├── Security-Requirements.md
+└── Success-Criteria.md*
 
 ---
 
