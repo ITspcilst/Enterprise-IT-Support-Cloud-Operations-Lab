@@ -55,7 +55,7 @@ The project follows enterprise best practices and is documented as if it were an
 ---
 
 ## Repository Structure
-'''
+```
 00-Project-Overview
 │
 ├── README.md
@@ -68,7 +68,7 @@ The project follows enterprise best practices and is documented as if it were an
 ├── Naming-Standards.md
 ├── Security-Requirements.md
 └── Success-Criteria.md*
-'''
+```
 ---
 
 ## Business Scenario
