@@ -1,0 +1,37 @@
+```mermaid
+flowchart TB
+
+    Employee[Employees]
+    Contractor[Contractors]
+
+    Employee --> Entra
+    Contractor --> Entra
+
+    Entra[Microsoft Entra ID]
+
+    Entra --> M365[Microsoft 365]
+
+    Entra --> Azure
+
+    Azure --> RG[Resource Groups]
+
+    RG --> VM[Windows Server VM]
+
+    RG --> Storage[Azure Storage]
+
+    RG --> Network[Virtual Network]
+
+    RG --> Backup[Recovery Services Vault]
+
+    RG --> Monitor[Azure Monitor]
+
+    Monitor --> Logs[Log Analytics]
+
+    Azure --> Defender[Microsoft Defender for Cloud]
+
+    PowerShell --> Azure
+
+    PowerShell --> Entra
+
+    PowerShell --> M365
+```
