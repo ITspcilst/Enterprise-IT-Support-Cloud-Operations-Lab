@@ -2,31 +2,31 @@
 
 ## Company Overview
 
-Company Name
+#### Company Name
 
 Northwind Financial Services Ltd
 
-Industry
+#### Industry
 
 Financial Services
 
-Headquarters
+#### Headquarters
 
 London, United Kingdom
 
-Employees
+#### Employees
 
 320
 
-Hybrid Users
+#### Hybrid Users
 
 180
 
-Remote Users
+#### Remote Users
 
 90
 
-Contractors
+#### Contractors
 
 50
 
